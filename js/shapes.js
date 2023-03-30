@@ -1,8 +1,11 @@
-// (c) Saeed Mirjalili
+/*
+Prof: Saeed Mirjalili
+Student: Tim Supan
+CPSC 1045
+Course: CPSC 1045
+Date: July 15, 2022
+*/
 
-/*jshint esversion: 6 */
-
-// global variables
 let x, y, h, w, shapeColor;
 let ctx;
 let moveStep;

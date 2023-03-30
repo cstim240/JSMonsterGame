@@ -1,6 +1,10 @@
-// (c) Saeed Mirjalili
-
-/*jshint esversion: 6 */
+/*
+Prof: Saeed Mirjalili
+Student: Tim Supan
+CPSC 1045
+Course: CPSC 1045
+Date: July 15, 2022
+*/
 
 function drawHappyMonster(ctx, cornerX, cornerY, monsterWidth, monsterHeight, monsterColor) {
     "use strict";

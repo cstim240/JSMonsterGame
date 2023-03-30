@@ -1,10 +1,10 @@
-// (c) Saeed Mirjalili
-
-/*jshint esversion: 6 */
 /*
- * All functions for drawing shapes are stored in this file.
- * This is for organizing our code. For big software projects, it is important.
- */
+Prof: Saeed Mirjalili
+Student: Tim Supan
+CPSC 1045
+Course: CPSC 1045
+Date: July 15, 2022
+*/
 
 //clears the canvas
 function clearCanvas(ctx) {
